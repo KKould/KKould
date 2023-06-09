@@ -7,3 +7,5 @@
   - Katcher 轻量级Web映射框架
 - Java\Rust\Ruby
 - 地球人
+
+I am looking for a job related to Rust
