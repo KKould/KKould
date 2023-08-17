@@ -9,6 +9,8 @@
 - Java\Rust
 - 地球人
 - 躺平了，专心在写KipSQL项目
-- 给我份ez job，别逼我求你 : )
+- 给我份job，别逼我求你 :)
 
 I am looking for a job related to Rust
+
+resume on here 👉: [简历](./static/Rust%20黎泽仁.pdf)
