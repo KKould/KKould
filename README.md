@@ -1,16 +1,15 @@
-## Kould 
-- 我他妈简直是个天才
-- 前Gitee打工人
-- 开源爱好者
-  - KipSQL SQL计算引擎
-  - KipDB 轻量级LSM存储引擎
-  - Kache 分布式缓存代理框架
-  - Katcher 轻量级Web映射框架
-- Java\Rust
-- 地球人
-- 躺平了，专心在写KipSQL项目
-- 给我份job，别逼我求你 :)
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-I am looking for a job related to Rust
+<a href="https://github.com/KKould">
+  <img align="left" alt="KKould's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-resume on here 👉: [简历](./static/Rust%20黎泽仁.pdf)
+### I am Kould
+- I like databases. (But nobody hired me to write a database, so I had to write one myself)
+- An Open Source enthusiast.
+- Current flexible employment(mean no job).
+- i need a job: resume on here 👉 [简历](./static/Rust%20黎泽仁.pdf)
+
+⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
