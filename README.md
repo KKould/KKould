@@ -10,6 +10,6 @@
 - I like databases. (But nobody hired me to write a database, so I had to write one myself)
 - An Open Source enthusiast.
 - Current flexible employment(mean no job).
-- i need a job: resume on here 👉 [简历](./static/Rust%20黎泽仁.pdf)
+- i need a job: resume on here 👉 [简历](./static/Rust开发%20黎泽仁%2018011906217.pdf)
 
 ⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
