@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Kould
-- I like databases. (But nobody hired me to write a database, so I had to write one myself)
+- I love databases. 
 - An Open Source enthusiast.
 - Current flexible employment(mean no job).
 - i need a job: resume on here 👉 [简历](./static/Rust开发%20黎泽仁%2018011906217.pdf)
