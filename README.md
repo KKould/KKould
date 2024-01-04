@@ -4,8 +4,4 @@
 
 Looking for a new job: [resume](./黎泽仁%2018011906217.pdf)
 
-<a href="https://github.com/KKould">
-  <img align="left" alt="KKould's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br />
 <img align="left" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
