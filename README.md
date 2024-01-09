@@ -1,6 +1,6 @@
 ## KKKKKKKKKKKKKKould! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### If you have 100% ability, you can do 70% of the things
+### As long as we write the database, we are brothers
 
 Looking for a new job: [resume](./黎泽仁%2018011906217.pdf)
 
